@@ -1,0 +1,41 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
+    -->
+    <!-- Info Fragment -->
+    <dimen name="info_button_height">80dp</dimen>
+    <dimen name="info_button_margin_top">30dp</dimen>
+    <dimen name="slider_new_header">300dp</dimen>
+    <dimen name="slider_new_header_framelayour">340dp</dimen>
+    <dimen name="mainmenu_button_margin">10dp</dimen>
+    <dimen name="contact_textview_width">250dp</dimen>
+    <!-- Home -->
+
+    <dimen name="home_tab_bar_height">75dp</dimen>
+    <dimen name="home_textview_text_size">28sp</dimen>
+
+    <!-- Main -->
+    <dimen name="main_bottombox_height">100dp</dimen>
+    <dimen name="main_bottom_icon_height">60dp</dimen>
+    <dimen name="main_bottom_text_size">18sp</dimen>
+    <dimen name="home_header_text">35dp</dimen>
+    <dimen name="home_header_layout_height">85dp</dimen>
+    <dimen name="home_header_top_layout_height1">65dp</dimen>
+
+    <!-- Button Text Size -->
+    <dimen name="button_text_size">22sp</dimen>
+
+    <!-- Login Dialog -->
+    <dimen name="facebook_icon_left_margin">30dp</dimen>
+    <dimen name="login_layout_margin_top">15dp</dimen>
+    <dimen name="main_app_layout_left_width">80dp</dimen>
+    
+    <dimen name="login_layout_banner_height">350dp</dimen>
+
+    <!--  -->
+    <dimen name="pet_details_icon_margin_right1">75dp</dimen>
+    <dimen name="pet_details_icon_margin_right2">140dp</dimen>
+
+</resources>

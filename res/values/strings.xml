@@ -1,0 +1,535 @@
+<resources>
+
+    <string name="app_name">Splunkt</string>
+    <string name="msg_error_connection">Splunkt App requires an active internet connection to function properly. Please check your network connection.</string>
+
+    <!-- Date Slider -->
+    <string name="date_slider_title">Selected date</string>
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+    <!--  -->
+
+    <string name="Farfarbeyondthemountainsinthecountryverballyvowelsandconsonantslive">Far beyond the mountains in the country verbally vowels and consonants live</string>
+    <string name="SharewithusyourimpressionsoftheapplicationThankyouinadvanceRevisionoftheSCO">Share with us your impressions of the application. 
+Thank you in advance. Revision of the SCO.</string>
+
+    <!-- New updated -->
+    <string name="clockmode">clockmode</string>
+    <!-- <string name="Festival_Map">Festival Map</string> -->
+    <string name="SHOS">Shos</string>
+    <string name="newWave">new Wave</string>
+    <string name="Far_far_beyond_the_mountains_in_the_country_verbally_vowels_and_consonants_live">Далеко-далеко за словестными горами в стране гласных и согласных живут</string>
+    <string name="share">Share</string>
+    <string name="News">News</string>
+    <string name="MediaPartner">MediaPartner</string>
+    <string name="WRITETO">WRITE TO</string>
+    <string name="string_1500">1500</string>
+    <string name="PROGRAM">Program</string>
+    <string name="DIRECTORY">Directory</string>
+    <string name="First">First</string>
+    <string name="SEND">Send</string>
+    <string name="save">Save</string>
+    <string name="payment">Payment</string>
+    <string name="our_radio">Our radio</string>
+    <string name="CULTURALPROGRAM">Cultural Program</string>
+    <string name="Item">Item</string>
+    <string name="DELEGATION">Delegations</string>
+    <string name="PARTNERS">Partners</string>
+    <string name="NEWS1">News</string>
+    <string name="Central_Information_Service_festival">Центральная справочная служба фестиваля\nтел. +7 (888) 888-8888</string>
+    <string name="READALL">Read All</string>
+    <string name="How_Thebes_Zovut">Как тебя зовут?\n(kak tebja zovut)</string>
+    <string name="OpenStreetMap">OpenStreetMap</string>
+    <string name="Name_your">あなたの名前\n(Ni juao shenme\nmingz)</string>
+    <string name="Second">Second</string>
+    <string name="creation">creation</string>
+    <string name="EVENTS">Event program</string>
+    <string name="DIRECTIONS">Directions</string>
+    <string name="Whatisyourname">What is your name?\n(вот из ёр нейм)</string>
+    <string name="watchsite">Watch site</string>
+    <string name="phrasebook">PHRASE BOOK</string>
+    <string name="FestivalMap">Festival\'s Map</string>
+    <!--
+    <string name="WRITETO">Write to</string>
+    <string name="DIRECTORY">Directory</string>
+    -->
+    <string name="PartnersoftheFestival">Partners of the Festival</string>
+    <string name="FESTIVALSITE">Festival\'s site</string>
+    <string name="Delegation_rebirth">Delegation \ "rebirth \"</string>
+    <string name="weareinsocialnetworks">Social networks</string>
+    <string name="Zabaykalli">Transbaikalie ( Zabaikalie)</string>
+    <string name="area">area</string>
+    <string name="Programbook">Program Book</string>
+    <string name="Festivalprogram">Festival\'s program</string>
+    <string name="Entertainment_Program">Entertainment Program</string>
+    <string name="Zarnitsa_eng_Outpost">"Zarnitsa" (eng, Outpost)</string>
+    <string name="Information_book">Information book</string>
+    <string name="Contact_Us">Contact Us</string>
+    <string name="chat">CHATS</string>
+    <string name="grouppicture">Group Picture (Press)</string>
+    <string name="Comment_on_app">Comment on app</string>
+
+    <!-- Facebook -->
+    <!-- <string name="app_id">1498360073732984</string> -->
+
+
+    <!-- Main Page -->
+    <string name="more">More</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="LoginSuccessfully">Login Successfully</string>
+    <string name="Thinking">Thinking</string>
+
+    <!-- test -->
+    <string name="Login">Login</string>
+    <string name="Registrieren">Registrieren</string>
+    <string name="Register">Register</string>
+    <string name="MitSocialMediaanmelden">Mit Social Media anmelden</string>
+    <string name="Password">Password</string>
+    <string name="Neues_Passwort">Neues Passwort</string>
+    <string name="EMailAdresse">E-Mail Adresse</string>
+    <string name="NamenurbeiRegistrierung">Name (nur bei Registrierung)</string>
+    <string name="Name">Name</string>
+    <string name="description">Description</string>
+    <string name="KommentareaufeigeneAnzeigen">Kommentare auf eigene Anzeigen</string>
+    <string name="PushNotificationsimUmkreis">Push Notifications im Umkreis</string>
+    <string name="PushNotificationUmkreisinkm">Push Notification Umkreis in km</string>
+    <string name="Standardadresseauswahlen">Standardadresse auswahlen</string>
+    <string name="MeineApp">Meine App</string>
+    <string name="NeuesentlaufenesTierNewDoggzimUmkreis">Neues entlaufenes Tier New Doggz im Umkreis</string>
+    <string name="NeuesentlaufenesTierKittyimUmkreis">Neues entlaufenes Tier Kitty im Umkreis</string>
+    <string name="NeuesentlaufenesTierDoggzimUmkreis">Neues entlaufenes Tier Doggz im Umkreis</string>
+    <string name="NeuesentlaufenesTierSociallyawkwardpenguinimUmkreis">Neues entlaufenes Tier Socially awkward penguin im Umkreis</string>
+    <string name="NeuesentlaufenesTierPushTestimUmkreis">Neues entlaufenes Tier Push Test im Umkreis</string>
+    <string name="NeuesentlaufenesTierTestiTestimUmkreis">Neues entlaufenes Tier Testi Test im Umkreis</string>
+    <string name="NeuesentlaufenesTierTestuploadimUmkreis">Neues entlaufenes Tier Testupload im Umkreis</string>
+    <!-- <string name="MeineApp">Meine App</string> -->
+    <string name="Ausloggen">Ausloggen</string>
+    <string name="Ausloggen1">Klicke hier, um dich aus deinem Account auszuloggen</string>
+    <string name="MeineAnzeigen">Meine Anzeigen</string>
+    <string name="MeineAnzeigen1">Hier findest du alle deine aufgegebenen Anzeigen</string>
+    <string name="MeineEinstellungen">Meine Einstellungen</string>
+    <string name="MeineEinstellungen1">Ändere deinen Benutzernamen, dein Passwort, uvm.</string>
+    <string name="MeineBenachrichtigungen">Meine Benachrichtigungen</string>
+    <string name="MeineBenachrichtigungen1">Sieh dir deine erhaltenen Benachrichtigungen an</string>
+    <string name="Info">Info</string>
+    <string name="FragenundAntworten">Fragen und Antworten</string>
+    <string name="FragenundAntworten1">Häufig gestellte Fragen und Antworten</string>
+    <string name="UnterstutzungbeiderSuche">Unterstützung bei der Suche</string>
+    <string name="UnterstutzungbeiderSuche1">Institutionen, die dir bei deiner Suche helfen können</string>
+    <string name="Kontaktformular">Kontaktformular</string>
+    <string name="Kontaktformular1">Nimm Kontakt zu uns auf!</string>
+    <string name="KontakteAGBs">Kontakte &amp; AGBs</string>
+    <string name="KontakteAGBs1">Unseren Kontaktdaten und Geschäftsbedingungen</string>
+    <string name="HappyEnd">Happy End</string>
+    <string name="HappyEnd1">Tiere, die zu ihren Besitzern zurückgekehrt sind</string>
+
+    <!--  -->
+    <string name="Art_der_Anzeige">Art der Anzeige</string>
+    <string name="Vermisst">Entlaufen</string>
+    <string name="Bilder_Gedruckt_halten_zum_Verschieben">Bilder (Gedruckt halten zum Verschieben)</string>
+    <string name="Anzeigentitel">Anzeigentitel</string>
+    <string name="Rasse">Rasse</string>
+    <string name="Hund">Hund</string>
+    <string name="Telefon">Telefon (optional)</string>
+    <string name="E_Mail">E-Mail</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="phone">Phone No</string>
+    <string name="Zuletzt_Gesehen">Zuletzt Gesehen</string>
+    <string name="Beschreibung">Beschreibung</string>
+    <string name="Anzeige_erfolgreich_aufgegeben.">Anzeige erfolgreich aufgegeben.</string>
+    <string name="Anzeige_teilen">Anzeige teilen</string>
+    <string name="Facebook">Facebook Login</string>
+    <string name="Facebook_login">Mit Facebook einloggen</string>
+    <string name="Twitter_login">Mit Twitter einloggen</string>
+    <string name="Twitter">Twitter</string>
+    <string name="Google">Google+</string>
+    <string name="Zur_Anzeige_springen">Zur Anzeige springen</string>
+    <string name="Als_gefunden_markieren">Als gefunden markieren</string>
+    <string name="Besitzer_kontaktieren">Besitzer kontaktieren</string>
+    <string name="Kommentar">Kommentar</string>
+    <string name="Kommentar_absenden">Kommentar absenden</string>
+    <string name="Kommentar_abgenden">Kommentar abgeben</string>
+    <string name="Angeige_melden">Angeige melden</string>
+    <string name="Fische_Vogel">Fische/Vogel</string>
+    <string name="name">Parrot</string>
+    <string name="Vermisst_sent">Vermisst sent:</string>
+    <string name="Vermisst_seit">Vermisst seit:</string>
+    <string name="Entfurnung">Entfurnung:</string>
+    <string name="Einstellungenspeichern">Einstellungen speichern</string>
+    <string name="Einstellungen">Einstellungen</string>
+    <string name="Adressespeichern">Adresse speichern</string>
+    <string name="standardaddresse">Standardaddresse</string>
+    <!-- <string name="Vermisst">Vermisst</string> -->
+    <string name="Gefunden">Zugelaufen</string>
+    <string name="Gesehen">Gesehen</string>
+    <string name="NeueAnzeige">Neue Anzeige</string>
+    <!-- <string name="MeineApp">Meine App</string> -->
+
+
+    <!--  -->
+    <string-array name="race_array">
+        <item>Hund</item>
+        <item>Katze</item>
+        <item>Fische/Vögel</item>
+        <item>Reptilien/Kleintiere</item>
+        <item>Pferde</item>
+        <item>Nutztiere</item>
+    </string-array>
+    <string-array name="race_array1">
+        <item>Alle Rassen</item>
+        <item>Hund</item>
+        <item>Katze</item>
+        <item>Fische/Vögel</item>
+        <item>Reptilien/Kleintiere</item>
+        <item>Pferde</item>
+        <item>Nutztiere</item>
+    </string-array>
+    <string-array name="states_array">
+        <item>Entlaufen</item>
+        <item>Zugelaufen</item>
+        <item>Gesehen</item>
+    </string-array>
+
+    <string name="facebook_app_id">373664686149618</string>
+
+    <string-array name="diameters_array">
+        <item>1km</item>
+        <item>3km</item>
+        <item>5km</item>
+        <item>10km</item>
+        <item>20km</item>
+        <item>50km</item>
+        <item>100km</item>
+        <item>200km</item>
+        <item>400km</item>
+        <item>Unbeschränkt</item>
+    </string-array>
+
+    <string name="empty_message">Leider konnten keine Tiere mit den eingegebenen Suchparametern gefunden werden</string>
+    <string name="empty_report_message">Leider hast du noch keine Anzeige aufgegeben. Klicke einfach auf \'Neue Anzeige\' und schon kannst du eine neue Anzeige aufgeben</string>
+    <string name="dien_kommentar">Dein Kommentar</string>
+
+    <!-- Pull TO Refresh -->
+    <string name="pull_to_refresh_pull_label">Pull to refresh...</string>
+    <string name="pull_to_refresh_release_label">Release to refresh...</string>
+    <string name="pull_to_refresh_refreshing_label">Loading...</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh...</string>
+
+    <!-- Updated -->
+    <string name="spatter_enloggen">Später einloggen</string>
+    <string name="registrieren">Registrieren?</string>
+    <string name="einloggen">Einloggen?</string>
+    <string name="einloggen1">Einloggen</string>
+    <string name="forgot_password">Forgot password?</string>
+
+    <!-- Login restriction message -->
+    <string name="loggen_warning_header">Bitte logge dich ein</string>
+    <string name="loggen_warning_message">Um eine neue Anzeige aufzugeben, musst du dich zuerst einloggen oder um dich zu registrieren.</string>
+
+    <!-- updated -->
+    <string name="forgot_password1">Passwort vergessen</string>
+    <string name="forgot_password2">Passwort vergessen?</string>
+    <string name="forgot_password_description">Du hast dein Passwort vergessen? Kein Problem. Gib bitte einfach deine E-Mail Adresse ein und fordere ein neues Passwort an. \n \nKlicke anschließend auf den Link in der E-Mail, um dein Passwort zu ändern.</string>
+    <string name="email_anfordern">Email anfordern</string>
+    <string name="login_back">Zurück zu Login?</string>
+    <!-- updated -->
+    <string name="new_pet_login_des">Da du nicht eingeloggt bist, kannst du nur gesehene Tiere anlegen. Solltest du ent- oder zugelaufene Tiere anlegen wollen, melde dich bitte an.</string>
+    <string name="location_select">Unbeschränkt and Suche in meinem Umkreis</string>
+
+    <!-- Updated -->
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_login">Log In</string>
+    <string name="label_avatar">Avatar</string>
+    <string name="label_display_name">Display Name</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_friends">Friends</string>
+    <string name="label_add_friend">Add friend</string>
+    <string name="label_log_out">Log Out</string>
+    <string name="label_settings">Settings</string>
+    <string name="symbol_plus">+</string>
+    <string name="label_send">Send</string>
+    <string name="label_message">Message</string>
+    <string name="label_just_now">just now</string>
+    <string name="label_attached_image">Attached Image</string>
+    <string name="label_attached_1_file">1 attached file/image</string>
+    <string name="label_receiving_file">downloading</string>
+    <string name="label_sending_file">uploading</string>
+    <string name="label_online_status">Online Status</string>
+
+    <!-- Organization -->
+
+    <string name="organization_logo">Logo (Press)</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="ZipCode">ZipCode</string>
+    <string name="Phone">Phone</string>
+    <string name="Country">Country</string>
+    <string name="StreetAddress">Street Address</string>
+    <string name="Email">Email</string>
+
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Bouvet Island</item>
+        <item>Brazil</item>
+        <item>British Indian Ocean Territory</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Christmas Island</item>
+        <item>Cocos (Keeling) Islands</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo</item>
+        <item>Cook Islands</item>
+        <item>Costa Rica</item>
+        <item>Cote d\'Ivoire</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>East Timor</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Faeroe Islands</item>
+        <item>Falkland Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>Former Yugoslav Republic of Macedonia</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>French Southern Territories</item>
+        <item>Gabon</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Heard Island and McDonald Islands</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montserrat</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar</item>
+        <item>Namibia</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>Netherlands Antilles</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>Niue</item>
+        <item>Norfolk Island</item>
+        <item>North Korea</item>
+        <item>Northern Marianas</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Pitcairn Islands</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Sqo Tome and Principe</item>
+        <item>Saint Helena</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Pierre and Miquelon</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Georgia and the South Sandwich Islands</item>
+        <item>South Korea</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Svalbard and Jan Mayen</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>The Bahamas</item>
+        <item>The Gambia</item>
+        <item>Togo</item>
+        <item>Tokelau</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Turks and Caicos Islands</item>
+        <item>Tuvalu</item>
+        <item>Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>United States Minor Outlying Islands</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Vatican City</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Wallis and Futuna</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Yugoslavia</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+
+    <!-- Organization -->
+
+    <string name="Organizations">Organizations</string>
+
+    <!-- Member Add Request -->
+    <string name="Reference">Reference</string>
+    <string name="Comments">Comments</string>
+
+    <!-- <string name="youhavenopermission">You have no permission, Please send a request to be member. Admin will approve your request.</string> -->
+    <string name="youhavenopermission"> Fit Chat will request ORG permission to join </string>
+    <string name="Request">Request To Join Group</string>
+    <!-- Login -->
+
+    <string name="chatwithyourfriends">Chat with your friends</string>
+
+    <!-- Tally Ho -->
+    <string name="Tournaments">Tournaments</string>
+    <string name="Categories">Categories</string>
+    <string name="Matches">Matches</string>
+    <string name="MatchScore">"Match Score"</string>
+    <string name="PlayerRole">Player Role</string>
+
+</resources>

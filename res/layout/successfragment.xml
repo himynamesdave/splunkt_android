@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayoutMain"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageViewHeader"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center_vertical|center_vertical"
+        android:clickable="false"
+        android:padding="20dp"
+        android:src="@drawable/icon" />
+
+    <TextView
+        android:id="@+id/textcompetitionmentioned"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+       android:clickable="false"
+        android:textSize="16sp"
+        android:text="Great work, we’ve got it. Now go hunt down another!"
+        android:textColor="@color/white" />
+
+</LinearLayout>
