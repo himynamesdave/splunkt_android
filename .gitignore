@@ -1,0 +1,29 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+
+# Ignore project files
+.idea/
+
+# Ignore precompiled assets
+/public/assets/**
+/public/uploads/**
+/public/blog/**
+
+# Ignore development configuration settings
+.env
+
+# Jekill temp files
+_site
+.sass-cache
+.jekyll-metadata
+
+# OS or Editor folders
+.DS_Store
